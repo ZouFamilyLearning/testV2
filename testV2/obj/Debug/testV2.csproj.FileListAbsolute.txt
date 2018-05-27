@@ -1,0 +1,10 @@
+c:\users\captain\source\repos\testV2\testV2\bin\Debug\testV2.exe.config
+c:\users\captain\source\repos\testV2\testV2\bin\Debug\testV2.exe
+c:\users\captain\source\repos\testV2\testV2\bin\Debug\testV2.pdb
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.csprojAssemblyReference.cache
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.Ver2_1.resources
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.Properties.Resources.resources
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.csproj.GenerateResource.cache
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.csproj.CoreCompileInputs.cache
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.exe
+c:\users\captain\source\repos\testV2\testV2\obj\Debug\testV2.pdb
